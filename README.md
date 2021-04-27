@@ -37,5 +37,18 @@ senhas eles também devem ser separados em blocos.
 campo de input.
 - NÃO implemente a função editar e-mail.
 
+LINKS DE  REFERÊNCIAS UTILIZADAS NA CONSTRUÇÃO DO PROJETO
 
-
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+- https://www.youtube.com/watch?v=cDnEMpSP4Hw
+- http://devfuria.com.br/javascript/manipulando-caixas-de-texto-com-javascript/
+- https://pt.stackoverflow.com/questions/241802/opera%C3%A7%C3%B5es-com-v%C3%A1rios-input-js
+- https://getbootstrap.com.br/docs/4.1/getting-started/javascript/
+- https://pt.stackoverflow.com/questions/338191/section-com-duas-cores
+- https://stackoverflow.com/questions/19230897/validate-multiple-email-addresses-with-html5
+- https://codepen.io/gehadz/pen/PrMNba
+- https://www.youtube.com/watch?v=AIcMkvE89eA
+- https://www.youtube.com/results?search_query=input+email+multiple+javascript
+- https://www.youtube.com/watch?v=d37wpL3lY3Q
+- https://www.youtube.com/watch?v=0EHlU55ZfbA
+- https://www.jqueryscript.net/form/email-multiple.html
