@@ -37,7 +37,7 @@ senhas eles também devem ser separados em blocos.
 campo de input.
 - NÃO implemente a função editar e-mail.
 
-LINKS DE  REFERÊNCIAS UTILIZADAS NA CONSTRUÇÃO DO PROJETO
+#  LINKS DE REFERÊNCIAS UTILIZADAS NA CONSTRUÇÃO DESTE PROJETO
 
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 - https://www.youtube.com/watch?v=cDnEMpSP4Hw
