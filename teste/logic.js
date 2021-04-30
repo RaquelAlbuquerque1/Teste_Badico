@@ -63,11 +63,7 @@ function send(){
     })
     if(valid == true){
         sendEmail();
-    }
-    else{
-        document.getElementById('error').style.display = "block";
-        document.getElementById('success').style.display = "none";
-    }
+    } 
 }
 
 function validateEmail(email){
@@ -76,6 +72,5 @@ function validateEmail(email){
 }
 
 function sendEmail(){
-    document.getElementById('success').style.display = "block";
-    document.getElementById('error').style.display = "none";
+    alert(tags.length)
 }

@@ -97,21 +97,3 @@ body{
     text-align:center;
     padding: 10px;
 }
-
-.success{
-    border: 1px solid green;
-    color: green;
-    border-radius: 15px;
-    padding: .5rem 1rem;
-    background: rgb(158, 253, 158);
-    display: none;
-}
-
-.error{
-    border: 1px solid red;
-    color: red;
-    border-radius: 15px;
-    padding: .5rem 1rem;
-    background: rgb(248, 188, 188);
-    display: none;
-}
