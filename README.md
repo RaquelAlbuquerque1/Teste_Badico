@@ -1,9 +1,9 @@
 # Challenge Badico Cloud Engineering
 This repository consists of a challenge input multiple emails for the trainee position at @badico-cloud-hub
 
-![email](https://user-images.githubusercontent.com/62721013/118052048-75378980-b358-11eb-882d-9d79201364b1.png)
-
 ## SEE THE PAGE [here](https://raquelalbuquerque1.github.io/challenge-badico/src/)
+
+![email](https://user-images.githubusercontent.com/62721013/118052048-75378980-b358-11eb-882d-9d79201364b1.png)
 
 ## FUNCTIONAL REQUIREMENTS OF THIS PROJECT
 
