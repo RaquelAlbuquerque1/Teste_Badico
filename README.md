@@ -3,9 +3,9 @@ This repository consists of a challenge input multiple emails for the trainee po
 
 ![email](https://user-images.githubusercontent.com/62721013/118052048-75378980-b358-11eb-882d-9d79201364b1.png)
 
-##SEE THE PAGE [here](https://raquelalbuquerque1.github.io/challenge-badico/src/)
+## SEE THE PAGE [here](https://raquelalbuquerque1.github.io/challenge-badico/src/)
 
-##FUNCTIONAL REQUIREMENTS OF THIS PROJECT
+## FUNCTIONAL REQUIREMENTS OF THIS PROJECT
 
 - An email block should be added or checked when the user presses enter, or when they lose focus of the input field.
 - An email block can be deleted.
