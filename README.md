@@ -1,6 +1,6 @@
 # DESCRIÇÃO
 
-  Este repositório refere-se a uma página de inserção de multiplos emails para testá-lo siga as intruções de clones abaixo ou faça o download do zip,extraia na sua máquina  e execute o arquivo index.html, ou acesse [aqui](https://raquelalbuquerque1.github.io/teste-badico/src/)
+  Este repositório refere-se a uma página de inserção de multiplos emails para testá-lo siga as intruções de clones abaixo ou faça o download do zip,extraia na sua máquina  e execute o arquivo index.html, ou acesse [aqui](https://raquelalbuquerque1.github.io/teste-badico/src/).
   
   ![email](https://user-images.githubusercontent.com/62721013/118052048-75378980-b358-11eb-882d-9d79201364b1.png)
 
